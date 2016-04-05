@@ -10,9 +10,25 @@ Google store.
 
 To find each subject go to http://developer.android.com/distribute/tools/launch-checklist.html and learn more. 
 
+###Group information
+Find 1 group member who is responsible for commiting changes on github.
+*Joker = if some students are not attending, jokers can be used for filling in if < 2 group members.
+
+
 ###Presentation
 
 Each group will have a maximum of 10 minutes to present their subjects.
+
+
+###GitHub Pull request
+
+1. fork this repository by clicking on Fork -> http://prntscr.com/aobz1e
+2. goto https://github.com/yourusername/launchlist and click on the README.MD file
+3. click on the pen for edit the file -> http://prntscr.com/aoc3x9
+4. add your text and links on the 3 subjects
+5. when you are done editing click on commmit change -> http://prntscr.com/aoc4an
+6. goto pull request and click New pull request -> http://prntscr.com/aoc7gr
+7. 
 
 -----
 
@@ -69,7 +85,7 @@ Ron[Joker]*
 * Support Users after Launch
  
 
->*Joker = if some students are not attending, jokers can be used for filling in if < 2 group members.
+
 
 
 -----
