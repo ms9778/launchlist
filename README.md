@@ -1,14 +1,34 @@
 # Android-app launch checklist
 
-< 
->
-*
+
+This document should be a collaborative effort from the groups. 
+The groups must construct and finish the app launch checklist.
+
+Each group will have 3 topics to research and present @ 10.30.
+
+The point of presenting these topics is to involve the students for them to better understand the concept when releasing an app on the
+Google store.
+
+To find each subject go to http://developer.android.com/distribute/tools/launch-checklist.html and learn more. 
+
+-----
+###Group 1
+* Understand the Publishing Process
+###Group 2
+
+###Group 3
+
+###Group 4
+
+###Group 5
+
+
 
 
 
 #Understand the Publishing Process
 
-I modsætning til hvad mange tror, er Lorem Ipsum ikke bare tilfældig tekst. Det stammer fra et stykke litteratur på latin fra år 45 f.kr., hvilket gør teksten over 2000 år gammel. Richard McClintock, professor i latin fra Hampden-Sydney universitet i Virginia, undersøgte et af de mindst kendte ord "consectetur" fra en del af Lorem Ipsum, og fandt frem til dets oprindelse ved at studere brugen gennem klassisk litteratur. Lorem Ipsum stammer fra afsnittene 1.10.32 og 1.10.33 fra "de Finibus Bonorum et Malorum" (Det gode og ondes ekstremer), som er skrevet af Cicero i år 45 f.kr. Bogen, som var meget populær i renæssancen, er en afhandling om etik. Den første linie af Lorem Ipsum "Lorem ipsum dolor sit amet..." kommer fra en linje i afsnit 1.10.32.
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
 ##Links
 http://developer.android.com/tools/publishing/publishing_overview.html
@@ -29,11 +49,6 @@ http://developer.android.com/tools/publishing/preparing.html
 ##Links
 
 
-#Determine Country Distribution
-
-##Links
-
-
 #Confirm the App's Overall Size
 
 ##Links
@@ -44,19 +59,10 @@ http://developer.android.com/tools/publishing/preparing.html
 ##Links
 
 
-#Decide Whether your App will be Free or Priced
-
-##Links
-
-
 #Consider using In-app Billing or Android Pay
 
 ##Links
 
-
-#Set Prices for your Products
-
-##Links
 
 
 #Start Localization
@@ -78,6 +84,16 @@ http://developer.android.com/tools/publishing/preparing.html
 #Plan a Beta Release
 
 ##Links
+
+#Complete the Apps’ Store Listing
+
+##Links
+
+
+#Use Google Play Badges and Links in your Promotional Campaigns
+
+##Links
+
 
 #Final Checks and Publishing
 
