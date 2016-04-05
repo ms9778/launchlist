@@ -12,8 +12,6 @@ Google store.
 To find each subject go to http://developer.android.com/distribute/tools/launch-checklist.html and learn more. 
 
 -----
-*Joker = if some students are not attending, jokers can be used for filling in if < 2 group members.
-
 
 ###Group 1
 
@@ -66,7 +64,9 @@ Ron[Joker]*
 * Use Google Play Badges and Links in your Promotional Campaigns
 * Final Checks and Publishing
 * Support Users after Launch
-
+ 
+-----
+*Joker = if some students are not attending, jokers can be used for filling in if < 2 group members.
 -----
 
 
