@@ -12,7 +12,15 @@ Google store.
 To find each subject go to http://developer.android.com/distribute/tools/launch-checklist.html and learn more. 
 
 -----
+Groups:
+
+
+
 ###Group 1
+
+Rene
+Anette
+Thomas
 
 * Understand the Publishing Process
 * Understand Google Play Policies and Agreements
@@ -20,11 +28,20 @@ To find each subject go to http://developer.android.com/distribute/tools/launch-
 
 ###Group 2
 
+Kristina
+Christoffer
+Jimmi
+
 * Determine your App’s Content Rating
 * Confirm the App's Overall Size
 * Confirm the App's Platform and Screen Compatibility Ranges
 
 ###Group 3
+
+Hui
+Angel
+Carsten[Joker]
+Jakob
 
 * Consider using In-app Billing or Android Pay
 * Start Localization
@@ -32,11 +49,20 @@ To find each subject go to http://developer.android.com/distribute/tools/launch-
 
 ###Group 4
 
+Martin J.
+Anders
+Kamilla
+
 * Build and Upload the Release-ready APK
 * Plan a Beta Release
 * Complete the Apps’ Store Listing
 
 ###Group 5
+
+Matthias
+Tine
+Theis
+Ron[Joker]
 
 * Use Google Play Badges and Links in your Promotional Campaigns
 * Final Checks and Publishing
