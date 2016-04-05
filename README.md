@@ -1,5 +1,7 @@
 # Android-app launch checklist
 
+
+
 This document should be a collaborative effort from the groups. 
 The groups must construct and finish the app launch checklist.
 
@@ -75,7 +77,7 @@ Kamilla
 
 ###Group 5
 
-Matthias,
+Matthias,sdsd
 Tine,
 Theis,
 Ron[Joker]*
