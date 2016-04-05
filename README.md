@@ -12,14 +12,13 @@ Google store.
 To find each subject go to http://developer.android.com/distribute/tools/launch-checklist.html and learn more. 
 
 -----
-Groups:
-
+*Joker = if some students are not attending, jokers can be used for filling in if < 2 group members.
 
 
 ###Group 1
 
-Rene
-Anette
+Rene,
+Anette,
 Thomas
 
 * Understand the Publishing Process
@@ -28,8 +27,8 @@ Thomas
 
 ###Group 2
 
-Kristina
-Christoffer
+Kristina,
+Christoffer,
 Jimmi
 
 * Determine your App’s Content Rating
@@ -38,9 +37,9 @@ Jimmi
 
 ###Group 3
 
-Hui
-Angel
-Carsten[Joker]
+Hui,
+Angel,
+Carsten[Joker]*,
 Jakob
 
 * Consider using In-app Billing or Android Pay
@@ -49,8 +48,8 @@ Jakob
 
 ###Group 4
 
-Martin J.
-Anders
+Martin J.,
+Anders,
 Kamilla
 
 * Build and Upload the Release-ready APK
@@ -59,10 +58,10 @@ Kamilla
 
 ###Group 5
 
-Matthias
-Tine
-Theis
-Ron[Joker]
+Matthias,
+Tine,
+Theis,
+Ron[Joker]*
 
 * Use Google Play Badges and Links in your Promotional Campaigns
 * Final Checks and Publishing
