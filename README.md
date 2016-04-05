@@ -13,7 +13,7 @@ Google store.
 To find each subject go to http://developer.android.com/distribute/tools/launch-checklist.html and learn more. 
 
 ###Group information
-Find 1 group member who is responsible for commiting changes on github.
+*Find 1 group member who is responsible for commiting changes on github.
 *Joker = if some students are not attending, jokers can be used for filling in if < 2 group members.
 
 
