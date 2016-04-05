@@ -1,5 +1,7 @@
 # Android-app launch checklist
 
+
+
 This document should be a collaborative effort from the groups. 
 The groups must construct and finish the app launch checklist.
 
@@ -35,7 +37,7 @@ Each group will have a maximum of 10 minutes to present their subjects.
 ###Group 1
 
 Rene,
-Anette,
+Anete,
 Thomas
 
 * Understand the Publishing Process
@@ -75,7 +77,7 @@ Kamilla
 
 ###Group 5
 
-Matthias,
+Matthias,sdsd
 Tine,
 Theis,
 Ron[Joker]*
