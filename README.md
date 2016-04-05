@@ -28,14 +28,14 @@ Each group will have a maximum of 10 minutes to present their subjects.
 4. add your text and links on the 3 subjects
 5. when you are done editing click on commmit change -> http://prntscr.com/aoc4an
 6. goto pull request and click New pull request -> http://prntscr.com/aoc7gr
-7. 
+7. click the create pull request and add description and then you are done http://prntscr.com/aocxvd
 
 -----
 
 ###Group 1
 
 Rene,
-Anette,
+Anete,
 Thomas
 
 * Understand the Publishing Process
