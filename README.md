@@ -47,83 +47,83 @@ To find each subject go to http://developer.android.com/distribute/tools/launch-
 
 
 
-#1. Understand the Publishing Process
+##1. Understand the Publishing Process
 
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-##Links
+###Links
 http://developer.android.com/tools/publishing/publishing_overview.html
 http://developer.android.com/tools/publishing/preparing.html
 
 
-#2. Understand Google Play Policies and Agreements
+##2. Understand Google Play Policies and Agreements
 
-##Links
+###Links
 
-#3. Test for Quality
+##3. Test for Quality
 
-##Links
-
-
-#4. Determine your App’s Content Rating
-
-##Links
+###Links
 
 
-#5. Confirm the App's Overall Size
+##4. Determine your App’s Content Rating
 
-##Links
-
-
-#6. Confirm the App's Platform and Screen Compatibility Ranges
-
-##Links
+###Links
 
 
-#7. Consider using In-app Billing or Android Pay
+##5. Confirm the App's Overall Size
 
-##Links
-
-
-
-#8. Start Localization
-
-##Links
+###Links
 
 
-#9. Prepare Promotional Graphics, Screenshots, and Videos
+##6. Confirm the App's Platform and Screen Compatibility Ranges
 
-##Links
+###Links
 
 
-#10. Build and Upload the Release-ready APK
+##7. Consider using In-app Billing or Android Pay
 
-##Links
+###Links
 
 
 
-#11. Plan a Beta Release
+##8. Start Localization
 
-##Links
-
-#12. Complete the Apps’ Store Listing
-
-##Links
+###Links
 
 
-#13. Use Google Play Badges and Links in your Promotional Campaigns
+##9. Prepare Promotional Graphics, Screenshots, and Videos
 
-##Links
-
-
-#14. Final Checks and Publishing
-
-##Links
+###Links
 
 
-#15. Support Users after Launch
+##10. Build and Upload the Release-ready APK
 
-##Links
+###Links
+
+
+
+##11. Plan a Beta Release
+
+###Links
+
+##12. Complete the Apps’ Store Listing
+
+###Links
+
+
+##13. Use Google Play Badges and Links in your Promotional Campaigns
+
+###Links
+
+
+##14. Final Checks and Publishing
+
+###Links
+
+
+##15. Support Users after Launch
+
+###Links
 
 
 
