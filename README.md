@@ -13,15 +13,36 @@ To find each subject go to http://developer.android.com/distribute/tools/launch-
 
 -----
 ###Group 1
+
 * Understand the Publishing Process
+* Understand Google Play Policies and Agreements
+* Test for Quality
+
 ###Group 2
+
+* Determine your App’s Content Rating
+* Confirm the App's Overall Size
+* Confirm the App's Platform and Screen Compatibility Ranges
 
 ###Group 3
 
+* Consider using In-app Billing or Android Pay
+* Start Localization
+* Prepare Promotional Graphics, Screenshots, and Videos
+
 ###Group 4
+
+* Build and Upload the Release-ready APK
+* Plan a Beta Release
+* Complete the Apps’ Store Listing
 
 ###Group 5
 
+* Use Google Play Badges and Links in your Promotional Campaigns
+* Final Checks and Publishing
+* Support Users after Launch
+
+-----
 
 
 
@@ -35,72 +56,72 @@ http://developer.android.com/tools/publishing/publishing_overview.html
 http://developer.android.com/tools/publishing/preparing.html
 
 
-#Understand Google Play Policies and Agreements
+#2. Understand Google Play Policies and Agreements
 
 ##Links
 
-#Test for Quality
-
-##Links
-
-
-#Determine your App’s Content Rating
+#3. Test for Quality
 
 ##Links
 
 
-#Confirm the App's Overall Size
+#4. Determine your App’s Content Rating
 
 ##Links
 
 
-#Confirm the App's Platform and Screen Compatibility Ranges
+#5. Confirm the App's Overall Size
 
 ##Links
 
 
-#Consider using In-app Billing or Android Pay
+#6. Confirm the App's Platform and Screen Compatibility Ranges
 
 ##Links
 
 
-
-#Start Localization
-
-##Links
-
-
-#Prepare Promotional Graphics, Screenshots, and Videos
-
-##Links
-
-
-#Build and Upload the Release-ready APK
+#7. Consider using In-app Billing or Android Pay
 
 ##Links
 
 
 
-#Plan a Beta Release
-
-##Links
-
-#Complete the Apps’ Store Listing
+#8. Start Localization
 
 ##Links
 
 
-#Use Google Play Badges and Links in your Promotional Campaigns
+#9. Prepare Promotional Graphics, Screenshots, and Videos
 
 ##Links
 
 
-#Final Checks and Publishing
+#10. Build and Upload the Release-ready APK
 
 ##Links
 
 
-#Support Users after Launch
+
+#11. Plan a Beta Release
+
+##Links
+
+#12. Complete the Apps’ Store Listing
+
+##Links
+
+
+#13. Use Google Play Badges and Links in your Promotional Campaigns
+
+##Links
+
+
+#14. Final Checks and Publishing
+
+##Links
+
+
+#15. Support Users after Launch
 
 ##Links
 
