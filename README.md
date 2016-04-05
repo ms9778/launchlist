@@ -66,7 +66,7 @@ Ron[Joker]*
 * Support Users after Launch
  
 
-*Joker = if some students are not attending, jokers can be used for filling in if < 2 group members.
+Joker = if some students are not attending, jokers can be used for filling in if < 2 group members.
 -----
 
 
