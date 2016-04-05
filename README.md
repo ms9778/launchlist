@@ -11,6 +11,10 @@ Google store.
 
 To find each subject go to http://developer.android.com/distribute/tools/launch-checklist.html and learn more. 
 
+###Presentation
+
+Each group will have a maximum of 10 minutes to present their subjects.
+
 -----
 
 ###Group 1
