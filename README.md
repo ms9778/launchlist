@@ -4,7 +4,7 @@ This document should be a collaborative effort from the groups.
 The groups must construct and finish the app launch checklist.
 
 Each group will have 3 topics to research and present @ 10.30.
-
+####TEST
 The point of presenting these topics is to involve the students for them to better understand the concept when releasing an app on the
 Google store.
 
