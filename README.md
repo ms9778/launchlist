@@ -7,7 +7,7 @@ The groups must construct and finish the app launch checklist.
 
 Each group will have 3 topics to research and present @ 10.30.
 
-The point of presenting these topics is to involve the students for them to better understand the concept when releasing an app on the
+The point of presenting these topics is to involve the students and to better understand the concept when releasing an app on the
 Google store.
 
 To find each subject go to http://developer.android.com/distribute/tools/launch-checklist.html and learn more. 
@@ -16,19 +16,20 @@ To find each subject go to http://developer.android.com/distribute/tools/launch-
 
 * Find 1 group member who is responsible for commiting changes on github.
 * Joker = if some students are not attending, jokers can be used for filling in if < 2 group members.
+* Any question concerning GitHub contact Mike/Martin.
 
 
 ###Presentation
 
-Each group will have a maximum of 10 minutes to present their subjects.
+Each group will have a maximum of 10 minutes to present their subjects. start @ 10.30
 
 
-###GitHub Pull request
+###GitHub Pull request by the student who is responsible to commiting changes.
 
 1. fork this repository by clicking on Fork -> http://prntscr.com/aobz1e
-2. goto https://github.com/yourusername/launchlist and click on the README.MD file
+2. Next goto https://github.com/yourusername/launchlist and click on the README.MD file
 3. click on the pen for edit the file -> http://prntscr.com/aoc3x9
-4. add your text and links on the 3 subjects
+4. add your text and links under your 3 subjects to finish the checklist.
 5. when you are done editing click on commmit change -> http://prntscr.com/aoc4an
 6. goto pull request and click New pull request -> http://prntscr.com/aoc7gr
 7. click the create pull request and add description and then you are done http://prntscr.com/aocxvd
