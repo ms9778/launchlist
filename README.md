@@ -65,7 +65,7 @@ Ron[Joker]*
 * Final Checks and Publishing
 * Support Users after Launch
  
------
+
 *Joker = if some students are not attending, jokers can be used for filling in if < 2 group members.
 -----
 
