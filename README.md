@@ -61,7 +61,6 @@ Jimmi
 Hui,
 Angel,
 Carsten[Joker]*,
-Jakob
 
 * Consider using In-app Billing or Android Pay
 * Start Localization
