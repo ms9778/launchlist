@@ -248,13 +248,15 @@ Feature image guidelines : http://android-developers.blogspot.dk/2011/10/android
 
 ##13. Use Google Play Badges and Links in your Promotional Campaigns
 Google Play badges give you an officially branded way of promoting your apps to Android users. Use the Google Play Badge generator to quickly create badges to link users to your products from web pages, ads, reviews, and more. You can also use special link formats to link directly to your store listing page, to a list of your products, or to search results. 
-### https://play.google.com/intl/en_us/badges/
+### Links
+https://play.google.com/intl/en_us/badges/
 
 
 ##14. Final Checks and Publishing
 When you think you’re ready to publish, sign in to the Developer Console and take a few moments for a few final checks. 
 Here is a few points to be on the lookout for when your publishing your first application!
-### http://developer.android.com/distribute/tools/launch-checklist.html#final-checks
+### Links
+http://developer.android.com/distribute/tools/launch-checklist.html#final-checks
 
 
 ##15. Support Users after Launch
