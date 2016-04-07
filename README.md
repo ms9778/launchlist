@@ -166,9 +166,46 @@ Android Pay enables simple and secure purchases of physical goods and services i
 
 
 ##9. Prepare Promotional Graphics, Screenshots, and Videos
+When you publish on Google Play, you can supply a variety of high-quality graphic assets to showcase your app or brand. Screenshots and videos are also very important, because they show how your apps look, how they’re used or played, and what makes them different.
 
-###Links
+###Possibilities
+For your app you have a range of possibilities for promoting your app.
+* Screenshots : Add up to 8 screenshots for each supported device (Phone, Tablet, Android TV and Android WE)
+* Icon : A high resolution icon is required for the app to be published. It must be a 32-bit PNG (Alpha) sized 512x512px with a maximum file size of 1024kb
+* Feature graphic : Your feature graphic is a powerful tool to show off your creative assets and attract users. A feature graphic is required in order to be featured anywhere within Google Play. It must be a JPEG or 24-bit PNG (no alpha) 1024 px by 500 px.
+* Promo graphic : This is not required and is used on older versions of Android OS (earlier than 4.0).
+* Banner asset (Android TV) : To publish an Android TV-enabled app, a banner asset is required. When you're creating a banner asset, think of it like your app’s icon on Android TV.
+* Promo video : The promo video appears in the first position of your graphic assets on the Google Play store. It must be an Youtube video.
 
+###Do’s and don’t’s
+Your graphic is not an ad, it’s a teaser. It’s a place for bold, creative promotional images.
+
+Vivid background colors work best. Black and white are problems because those are the backgrounds used by the mobile-device and Web versions of Google Play.
+
+Limit Text to your app name and maybe a few additional descriptive words. Anything else will be unreadable on phones, anyhow.
+
+DO:
+* Make the graphic fun and enticing
+* Use colors that stand out on black or white backgrounds
+* Promote your brand prominently
+* Localize your image as needed for different languages
+
+DONT:
+* Create a text-heavy advertising-style graphic
+* Let the graphic fade into the background
+* Overload the graphic with details
+* Device imagery is tempting, but becomes dated fast, and may be inappropriate if your user’s device looks entirely different.
+* In-app screenshots are inappropriate because your product page already includes a place for these.
+* Just using your app icon is a failure of imagination. You have more room; put it to good use!
+
+###Scaling
+Your image has to be designed to scale. You can rely on the aspect ratio being constant, but not the size. Try resizing your image down to 1 inch in width. If it still looks good and conveys your brand message, you have a winner.
+
+###Localization
+Android's user base is global. Therefor you should provide a separate featured image for each language that you support, as well as separate screenshots and promotional videos.
+
+###Don’t Forget
+A 1024 x 500 Featured Image is required for feature placement consideration. Don't miss out on the opportunity!
 
 ##10. Build and Upload the Release-ready APK
 
