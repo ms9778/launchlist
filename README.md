@@ -199,6 +199,7 @@ However it is possible to change the default settings in the config.xml file loc
 
 ###Links
 http://ionicframework.com/docs/guide/publishing.html
+
 http://cordova.apache.org/docs/en/latest/config_ref/index.html
 
 ##7. Consider using In-app Billing or Android Pay
