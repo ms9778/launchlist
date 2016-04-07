@@ -1,4 +1,4 @@
-# Android-app launch checklist
+# Android-app launch checklist made by you know who
 
 
 
