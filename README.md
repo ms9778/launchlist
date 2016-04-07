@@ -128,10 +128,37 @@ http://developer.android.com/tools/publishing/preparing.html
 
 
 ##7. Consider using In-app Billing or Android Pay
+Google Play In-app Billing lets you sell digital content in your applications, ranging from one-time purchases to subscriptions. This can help you to monetize the app over its installed lifetime.
 
-###Links
+###In-app billing & subscriptions
+In-app Billing lets you sell to sell a wide range of digital content, including downloadable content such as media files or photos, virtual content such as game levels or potions, premium services and features, and more. In-app billing can be sold as:
+* Standard in-app products (one-time billing), or
+* Subscriptions (recurring, automated billing)
 
+Subscriptions let you sell content, services, or features in your app with automated, recurring billing. An existing In-app Billing implementation can easily be adapted to sell subscriptions. You can sell subscriptions to almost any type of digital content, from any type of app or game.
 
+Users can be billed
+* Weekly
+* Monthly
+* 3 months
+* 6 months
+* Annually
+* Seasonal
+
+Any application that you publish through Google Play can implement In-app Billing. No special account or registration is required other than a Google Play Developer Console account and a Google Wallet merchant account.
+
+To help integrate in-app billing, the Android SDK provides a sample application that demonstrates to implement in-app billing.
+
+###Android pay
+Android Pay enables simple and secure purchases of physical goods and services in your app, such as clothing, food delivery or movie tickets.
+
+####Read more
+* General about In-app billing : http://developer.android.com/google/play/billing/index.html
+* Selling In-app Products training class : http://developer.android.com/training/in-app-billing/index.html
+* Version 3 API : http://developer.android.com/google/play/billing/api.html
+* Testing In-app billing : http://developer.android.com/google/play/billing/billing_testing.html
+* General about subscriptions : http://developer.android.com/google/play/billing/billing_subscriptions.html
+* Implementing subscriptions : http://developer.android.com/google/play/billing/billing_integrate.html#Subs
 
 ##8. Start Localization
 
