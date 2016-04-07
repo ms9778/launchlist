@@ -160,7 +160,7 @@ This preparation process, as well as the cleanup and optimization of your code, 
 
 Testing of your application helps to ensure that your application runs properly under realistic device and network conditions, while gathering suggestions on improvements and bugs. Google Play provides secure means to do that in its **Developer Console**, but for a feedback mechanism, you'll need to consider integrating it yourself or using Google Forums. 
 
-The key to a successful beta test is finding the people to with the right knowledge that are committed to the product and still being able to motnitor their every move. Google offers a beta testing tool for getting as much feedback as possible, but you can consider different platforms, like TestFlight, Crashyltics Beta, HockeyApp with different analytic features. 
+The key to a successful beta test is finding the people to with the right knowledge that are committed to the product and still being able to monitor their every move. Google offers a beta testing tool for getting as much feedback as possible, but you can consider different platforms, like TestFlight, Crashyltics Beta, HockeyApp with different analytic features. 
 
 ###Links
 * https://www.quora.com/What-are-some-strategies-for-beta-testing-an-app-that-will-be-paid-when-released
@@ -168,11 +168,7 @@ The key to a successful beta test is finding the people to with the right knowle
 
 ##12. Complete the Apps’ Store Listing
 
-On Google Play, your apps’ product information is shown to users on their store listing pages, here the users learn more about your apps and decide to purchase or download your apps.
-
-Google Play gives you a variety of ways to promote your apps and engage with users on your store listing pages, from colorful graphics, screenshots, and videos to localized descriptions, release details, and links to your other apps. 
-
-As you prepare to publish your apps, make sure that you take advantage of all that your product detail pages can offer, making your apps as compelling as possible to users.
+Google Play displays your product information in a store listing page, here the users learn more about your apps and decide whether to purchase or download it. The page can hold colorful graphics, screenshots, and videos to descriptions, release details, catrgory keywords, and links to your other apps.
 
 ###Links
 * http://www.apptamin.com/blog/optimize-play-store-app/
