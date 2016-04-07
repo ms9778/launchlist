@@ -207,6 +207,10 @@ Android's user base is global. Therefor you should provide a separate featured i
 ###Don’t Forget
 A 1024 x 500 Featured Image is required for feature placement consideration. Don't miss out on the opportunity!
 
+####Read more
+Graphic assets, screenshots & video : https://support.google.com/googleplay/android-developer/answer/1078870
+Feature image guidelines : http://android-developers.blogspot.dk/2011/10/android-market-featured-image.html
+
 ##10. Build and Upload the Release-ready APK
 
 ###Links
