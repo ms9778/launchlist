@@ -1,4 +1,4 @@
-# Android-app launch checklist
+# Android-app launch checklist --- allah u akbar
 
 
 
