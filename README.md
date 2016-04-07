@@ -143,10 +143,11 @@ http://developer.android.com/tools/publishing/preparing.html
 
 
 ##10. Build and Upload the Release-ready APK
+21321321
 
-This mean that thi is bobo
 
 ###Links
+http://www.tutorialspoint.com/android/android_publishing_application.htm
 
 
 
