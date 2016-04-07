@@ -114,15 +114,37 @@ http://developer.android.com/tools/publishing/preparing.html
 
 ##4. Determine your App’s Content Rating
 
+Google Play use four content rating levels:
+
+- Everyone
+- Low maturity
+- Medium maturity
+- High maturity
+
+These ratings are used to inform the users about the contents maturity level, and will block or filter content in regions where this is required.
+To classify your apps rating level it is possible to take a survey in the Google developer console.
+You can assign (or change) the content rating for your apps in the Developer Console.
+
+- It is important to answer correct and truthfully on the survey as a misleading describtion or rating can result in removal of your app.
+
 ###Links
+https://play.google.com/apps/publish/signup/
 
 
 ##5. Confirm the App's Overall Size
 
-###Links
+The max size for an APK published on Google Play is 100 MB. If your app exceeds that size, or if you want to offer a secondary download, you can use APK Expansion Files, which Google Play will host for free on its server infrastructure and automatically handle the download to devices.
 
+The maximum size for an APK published on Google Play is 100 MB.
+You can use up to two (2) APK Expansion Files, each up to 2GB in size, for each APK.
+Using APK Expansion files is a convenient, cost-effective method of distributing large apps. However, the use of APK Expansion Files requires some changes in your app binary, so you will need to make those changes before creating your release-ready APK.
+
+###Links
+http://developer.android.com/google/play/expansion-files.html
 
 ##6. Confirm the App's Platform and Screen Compatibility Ranges
+
+
 
 ###Links
 
