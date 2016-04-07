@@ -146,11 +146,11 @@ http://developer.android.com/tools/publishing/preparing.html
 
 To be able to upload your application to the Google Play marketplace, you'll need to export it as an **APK (Andriod Package)** file.
 
-This can be achieved by using Andriod Studio's build in function _"Generate Signed APK" [1]_. Just like in Windows we have an .exe file, in Andriod we have an .apk file for running the application, so Google Play needs a file to distribute. Android requires that all apps be digitally signed with a certificate before they can be installed; therefore, your application will requiere a release key generated in the export process _[2]_ - you define it in the _"New Key Store"_ section. 
+This can be achieved by using Andriod Studio's build in function **"Generate Signed APK"**. Just like in Windows we have an .exe file, in Andriod we have an .apk file for running the application, so Google Play needs a file to distribute. Android requires that all apps be digitally signed with a certificate before they can be installed; therefore, your application will requiere a release key generated in the export process - you define it in the **"New Key Store"** section. 
 
 ###Links
-* 1. http://www.tutorialspoint.com/android/android_publishing_application.htm
-* 2. http://developer.android.com/tools/publishing/app-signing.html#overview
+* http://www.tutorialspoint.com/android/android_publishing_application.htm
+* http://developer.android.com/tools/publishing/app-signing.html#overview
 
 
 ##11. Plan a Beta Release
