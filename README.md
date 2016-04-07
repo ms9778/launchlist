@@ -114,18 +114,44 @@ http://developer.android.com/tools/publishing/preparing.html
 
 ##4. Determine your App’s Content Rating
 
+Google Play use four content rating levels:
+
+- Everyone
+- Low maturity
+- Medium maturity
+- High maturity
+
+These ratings are used to inform the users about the contents maturity level, and will block or filter content in regions where this is required.
+To classify your apps rating level it is possible to take a survey in the Google developer console.
+You can assign (or change) the content rating for your apps in the Developer Console.
+
+- It is important to answer correct and truthfully on the survey as a misleading describtion or rating can result in removal of your app.
+
 ###Links
+https://play.google.com/apps/publish/signup/
 
 
 ##5. Confirm the App's Overall Size
 
-###Links
+The max size for an APK published on Google Play is 100 MB. If your app exceeds that size, or if you want to offer a secondary download, you can use APK Expansion Files, which Google Play will host for free on its server infrastructure and automatically handle the download to devices.
 
+You can use up to two (2) APK Expansion Files, each up to 2GB in size, for each APK.
+Using APK Expansion files is a convenient, cost-effective method of distributing large apps. However, the use of APK Expansion Files requires some changes in your app binary, so you will need to make those changes before creating your release-ready APK.
+
+The expansion files are saved to the device's shared storage location (the SD card or USB-mountable partition; also known as the "external" storage) where your app can access them. On most devices, Google Play downloads the expansion file(s) at the same time it downloads the APK, so your application has everything it needs when the user opens it for the first time. In some cases, however, your application must download the files from Google Play when your application starts.
+
+###Links
+http://developer.android.com/google/play/expansion-files.html
 
 ##6. Confirm the App's Platform and Screen Compatibility Ranges
 
-###Links
+Ionic handles this by default using cordovas platform api.
+However it is possible to change the default settings in the config.xml file located in the Ionic project folder
 
+
+###Links
+http://ionicframework.com/docs/guide/publishing.html
+http://cordova.apache.org/docs/en/latest/config_ref/index.html
 
 ##7. Consider using In-app Billing or Android Pay
 Google Play In-app Billing lets you sell digital content in your applications, ranging from one-time purchases to subscriptions. This can help you to monetize the app over its installed lifetime.
