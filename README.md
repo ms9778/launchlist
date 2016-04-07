@@ -161,8 +161,28 @@ Android Pay enables simple and secure purchases of physical goods and services i
 * Implementing subscriptions : http://developer.android.com/google/play/billing/billing_integrate.html#Subs
 
 ##8. Start Localization
+With your country targeting in mind, it's a good idea to assess your localization needs, ensure your apps are internationalized, and start the work of localizing well in advance of your target launch date.
 
-###Links
+Localization involves a variety of tasks throughout your app development cycle, and advance planning is essential. When considering localization, there are at least three aspects you need to consider:
+* Localizing the strings, images, and other resources in your apps.
+* Localizing your apps’ store listing details on Google Play.
+* Localizing the apps’ graphic assets, screenshots, and videos that accompany your store listing.
+* 
+To localize your store listing, first create and finalize your app title, description, and promotional text. Collect and send all of these for localization. You can optionally translate the "Recent Changes" text for app updates as well. Later you can add your localized listing details in the Developer Console, or you can choose to let Google Play auto-translate your listing details into the languages you support.
+
+In general there are 7 steps that you should go thru for localization of the app
+
+1.	**Identify target languages and locales** : A basic but important step in preparing for localization is identifying the countries where you’ll distribute your apps and the languages spoken there.
+2.	**Design for localization** : After you've determined your target languages for localization, assess what you'll need to do to support them in your apps and plan the work early. Consider the vocabulary expansion, script requirements, character spacing and wrapping constraints, left-to-right and right-to-left support, and other potential factors in each language.
+3.	**Manage strings for localization** : It's important to manage your apps’ UI strings properly, so that you deliver a great experience for users and make localization straightforward.
+4.	**Translate UI strings and other resources** : Translating your apps’ UI strings and resources to your target languages is the key phase of localization, and it's the one that requires the most care and planning.
+5.	**Test your localized app** : Once you've received your translated strings and resources and moved them back into your apps, you need to test the apps to make sure that they’re ready for distribution to your international users.
+6.	**Prepare for international launch** : Getting your apps translated is a key part of localization, but to help your product attract users and gain visibility, you should prepare for launch in your target countries and create a broader launch and marketing plan for international users.
+7.	**Support international users after launch** : After you launch your apps internationally, you should be prepared to support users in a variety of languages and time zones.
+
+####Read more
+Google Play distribution & seller countries : https://support.google.com/googleplay/android-developer/table/3541286?rd=1
+Localization checklist : http://developer.android.com/distribute/tools/localization-checklist.html
 
 
 ##9. Prepare Promotional Graphics, Screenshots, and Videos
