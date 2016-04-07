@@ -48,7 +48,6 @@ Thomas
 
 ###Group 2
 
-Kristina,
 Christoffer,
 Jimmi
 
@@ -68,9 +67,8 @@ Carsten[Joker]*,
 
 ###Group 4
 
-Martin J.,
-Anders,
-Kamilla
+Kristina
+Ron[Joker]*
 
 * Build and Upload the Release-ready APK
 * Plan a Beta Release
@@ -80,8 +78,8 @@ Kamilla
 
 Matthias,
 Tine,
-Theis,
-Ron[Joker]*
+Theis
+
 
 * Use Google Play Badges and Links in your Promotional Campaigns
 * Final Checks and Publishing
