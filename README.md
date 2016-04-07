@@ -128,20 +128,108 @@ http://developer.android.com/tools/publishing/preparing.html
 
 
 ##7. Consider using In-app Billing or Android Pay
+Google Play In-app Billing lets you sell digital content in your applications, ranging from one-time purchases to subscriptions. This can help you to monetize the app over its installed lifetime.
 
-###Links
+###In-app billing & subscriptions
+In-app Billing lets you sell to sell a wide range of digital content, including downloadable content such as media files or photos, virtual content such as game levels or potions, premium services and features, and more. In-app billing can be sold as:
+* Standard in-app products (one-time billing), or
+* Subscriptions (recurring, automated billing)
 
+Subscriptions let you sell content, services, or features in your app with automated, recurring billing. An existing In-app Billing implementation can easily be adapted to sell subscriptions. You can sell subscriptions to almost any type of digital content, from any type of app or game.
 
+Users can be billed
+* Weekly
+* Monthly
+* 3 months
+* 6 months
+* Annually
+* Seasonal
+
+Any application that you publish through Google Play can implement In-app Billing. No special account or registration is required other than a Google Play Developer Console account and a Google Wallet merchant account.
+
+To help integrate in-app billing, the Android SDK provides a sample application that demonstrates to implement in-app billing.
+
+###Android pay
+Android Pay enables simple and secure purchases of physical goods and services in your app, such as clothing, food delivery or movie tickets.
+
+####Read more
+* General about In-app billing : http://developer.android.com/google/play/billing/index.html
+* Selling In-app Products training class : http://developer.android.com/training/in-app-billing/index.html
+* Version 3 API : http://developer.android.com/google/play/billing/api.html
+* Testing In-app billing : http://developer.android.com/google/play/billing/billing_testing.html
+* General about subscriptions : http://developer.android.com/google/play/billing/billing_subscriptions.html
+* Implementing subscriptions : http://developer.android.com/google/play/billing/billing_integrate.html#Subs
 
 ##8. Start Localization
+With your country targeting in mind, it's a good idea to assess your localization needs, ensure your apps are internationalized, and start the work of localizing well in advance of your target launch date.
 
-###Links
+Localization involves a variety of tasks throughout your app development cycle, and advance planning is essential. When considering localization, there are at least three aspects you need to consider:
+* Localizing the strings, images, and other resources in your apps.
+* Localizing your apps’ store listing details on Google Play.
+* Localizing the apps’ graphic assets, screenshots, and videos that accompany your store listing.
+* 
+To localize your store listing, first create and finalize your app title, description, and promotional text. Collect and send all of these for localization. You can optionally translate the "Recent Changes" text for app updates as well. Later you can add your localized listing details in the Developer Console, or you can choose to let Google Play auto-translate your listing details into the languages you support.
+
+In general there are 7 steps that you should go thru for localization of the app
+
+1.	**Identify target languages and locales** : A basic but important step in preparing for localization is identifying the countries where you’ll distribute your apps and the languages spoken there.
+2.	**Design for localization** : After you've determined your target languages for localization, assess what you'll need to do to support them in your apps and plan the work early. Consider the vocabulary expansion, script requirements, character spacing and wrapping constraints, left-to-right and right-to-left support, and other potential factors in each language.
+3.	**Manage strings for localization** : It's important to manage your apps’ UI strings properly, so that you deliver a great experience for users and make localization straightforward.
+4.	**Translate UI strings and other resources** : Translating your apps’ UI strings and resources to your target languages is the key phase of localization, and it's the one that requires the most care and planning.
+5.	**Test your localized app** : Once you've received your translated strings and resources and moved them back into your apps, you need to test the apps to make sure that they’re ready for distribution to your international users.
+6.	**Prepare for international launch** : Getting your apps translated is a key part of localization, but to help your product attract users and gain visibility, you should prepare for launch in your target countries and create a broader launch and marketing plan for international users.
+7.	**Support international users after launch** : After you launch your apps internationally, you should be prepared to support users in a variety of languages and time zones.
+
+####Read more
+Google Play distribution & seller countries : https://support.google.com/googleplay/android-developer/table/3541286?rd=1
+Localization checklist : http://developer.android.com/distribute/tools/localization-checklist.html
 
 
 ##9. Prepare Promotional Graphics, Screenshots, and Videos
+When you publish on Google Play, you can supply a variety of high-quality graphic assets to showcase your app or brand. Screenshots and videos are also very important, because they show how your apps look, how they’re used or played, and what makes them different.
 
-###Links
+###Possibilities
+For your app you have a range of possibilities for promoting your app.
+* Screenshots : Add up to 8 screenshots for each supported device (Phone, Tablet, Android TV and Android WE)
+* Icon : A high resolution icon is required for the app to be published. It must be a 32-bit PNG (Alpha) sized 512x512px with a maximum file size of 1024kb
+* Feature graphic : Your feature graphic is a powerful tool to show off your creative assets and attract users. A feature graphic is required in order to be featured anywhere within Google Play. It must be a JPEG or 24-bit PNG (no alpha) 1024 px by 500 px.
+* Promo graphic : This is not required and is used on older versions of Android OS (earlier than 4.0).
+* Banner asset (Android TV) : To publish an Android TV-enabled app, a banner asset is required. When you're creating a banner asset, think of it like your app’s icon on Android TV.
+* Promo video : The promo video appears in the first position of your graphic assets on the Google Play store. It must be an Youtube video.
 
+###Do’s and don’t’s
+Your graphic is not an ad, it’s a teaser. It’s a place for bold, creative promotional images.
+
+Vivid background colors work best. Black and white are problems because those are the backgrounds used by the mobile-device and Web versions of Google Play.
+
+Limit Text to your app name and maybe a few additional descriptive words. Anything else will be unreadable on phones, anyhow.
+
+DO:
+* Make the graphic fun and enticing
+* Use colors that stand out on black or white backgrounds
+* Promote your brand prominently
+* Localize your image as needed for different languages
+
+DONT:
+* Create a text-heavy advertising-style graphic
+* Let the graphic fade into the background
+* Overload the graphic with details
+* Device imagery is tempting, but becomes dated fast, and may be inappropriate if your user’s device looks entirely different.
+* In-app screenshots are inappropriate because your product page already includes a place for these.
+* Just using your app icon is a failure of imagination. You have more room; put it to good use!
+
+###Scaling
+Your image has to be designed to scale. You can rely on the aspect ratio being constant, but not the size. Try resizing your image down to 1 inch in width. If it still looks good and conveys your brand message, you have a winner.
+
+###Localization
+Android's user base is global. Therefor you should provide a separate featured image for each language that you support, as well as separate screenshots and promotional videos.
+
+###Don’t Forget
+A 1024 x 500 Featured Image is required for feature placement consideration. Don't miss out on the opportunity!
+
+####Read more
+Graphic assets, screenshots & video : https://support.google.com/googleplay/android-developer/answer/1078870
+Feature image guidelines : http://android-developers.blogspot.dk/2011/10/android-market-featured-image.html
 
 ##10. Build and Upload the Release-ready APK
 
