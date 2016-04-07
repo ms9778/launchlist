@@ -144,10 +144,13 @@ http://developer.android.com/google/play/expansion-files.html
 
 ##6. Confirm the App's Platform and Screen Compatibility Ranges
 
+Ionic handles this by default using cordovas platform api.
+However it is possible to change the default settings in the config.xml file located in the Ionic project folder
 
 
 ###Links
-
+http://ionicframework.com/docs/guide/publishing.html
+http://cordova.apache.org/docs/en/latest/config_ref/index.html
 
 ##7. Consider using In-app Billing or Android Pay
 
