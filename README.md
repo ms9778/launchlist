@@ -163,14 +163,19 @@ Testing of your application helps to ensure that your application runs properly 
 The key to a successful beta test is finding the people to with the right knowledge that are committed to the product and still being able to motnitor their every move. Google offers a beta testing tool for getting as much feedback as possible, but you can consider different platforms, like TestFlight, Crashyltics Beta, HockeyApp with different analytic features. 
 
 ###Links
-
 * https://www.quora.com/What-are-some-strategies-for-beta-testing-an-app-that-will-be-paid-when-released
 * http://blog.instabug.com/2015/07/the-beginners-guide-for-beta-testing-your-app/
 
 ##12. Complete the Apps’ Store Listing
 
-###Links
+On Google Play, your apps’ product information is shown to users on their store listing pages, here the users learn more about your apps and decide to purchase or download your apps.
 
+Google Play gives you a variety of ways to promote your apps and engage with users on your store listing pages, from colorful graphics, screenshots, and videos to localized descriptions, release details, and links to your other apps. 
+
+As you prepare to publish your apps, make sure that you take advantage of all that your product detail pages can offer, making your apps as compelling as possible to users.
+
+###Links
+* http://www.apptamin.com/blog/optimize-play-store-app/
 
 ##13. Use Google Play Badges and Links in your Promotional Campaigns
 
