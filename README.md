@@ -1,7 +1,6 @@
 # Android-app launch checklist
 
 
-
 This document should be a collaborative effort from the groups. 
 The groups must construct and finish the app launch checklist.
 
@@ -144,6 +143,8 @@ http://developer.android.com/tools/publishing/preparing.html
 
 
 ##10. Build and Upload the Release-ready APK
+
+This mean that thi is bobo
 
 ###Links
 
