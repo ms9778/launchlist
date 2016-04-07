@@ -165,7 +165,7 @@ http://developer.android.com/tools/publishing/preparing.html
 
 ##14. Final Checks and Publishing
 
-###Links
+### http://developer.android.com/distribute/tools/launch-checklist.html
 
 
 ##15. Support Users after Launch
