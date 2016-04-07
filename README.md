@@ -160,7 +160,7 @@ http://developer.android.com/tools/publishing/preparing.html
 
 ##13. Use Google Play Badges and Links in your Promotional Campaigns
 
-###Links
+### https://play.google.com/intl/en_us/badges/
 
 
 ##14. Final Checks and Publishing
