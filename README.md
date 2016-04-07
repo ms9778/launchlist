@@ -143,7 +143,6 @@ Policies:
 ###Links
 
 https://play.google.com/about/restricted-content.html#illegal-activities
-
 https://play.google.com/intl/ALL_us/about/developer-distribution-agreement.html
 
 ##3. Test for Quality
