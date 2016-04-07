@@ -144,18 +144,28 @@ http://developer.android.com/tools/publishing/preparing.html
 
 ##10. Build and Upload the Release-ready APK
 
-To be able to upload your application to the Google Play marketplace, you'll need to export it as an **APK (Andriod Package)** file.
+To be able to upload your application to the Google Play marketplace, you'll need to export it as an **APK (Android Package)** file.
 
-This can be achieved by using Andriod Studio's build in function **"Generate Signed APK"**. Just like in Windows we have an .exe file, in Andriod we have an .apk file for running the application, so Google Play needs a file to distribute. Android requires that all apps be digitally signed with a certificate before they can be installed; therefore, your application will requiere a release key generated in the export process - you define it in the **"New Key Store"** section. 
+This can be achieved by using Android Studio's build in function **"Generate Signed APK"**. Just like in Windows we have an .exe file, in Android we have an .apk file for running the application, so Google Play needs a file to distribute. Android requires that all apps be digitally signed with a certificate before they can be installed; therefore, your application will require a release key generated in the export process - you define it in the **"New Key Store"** section. 
+
+This preparation process, as well as the cleanup and optimization of your code, is a required development task and is the first step in publishing your application. 
 
 ###Links
 * http://www.tutorialspoint.com/android/android_publishing_application.htm
 * http://developer.android.com/tools/publishing/app-signing.html#overview
+* http://developer.android.com/tools/publishing/preparing.html
 
 
 ##11. Plan a Beta Release
 
+Testing of your application helps to ensure that your application runs properly under realistic device and network conditions, while gathering suggestions on improvements and bugs. Google Play provides secure means to do that in its **Developer Console**, but for a feedback mechanism, you'll need to consider integrating it yourself or using Google Forums. 
+
+The key to a successful beta test is finding the people to with the right knowledge that are committed to the product and still being able to motnitor their every move. Google offers a beta testing tool for getting as much feedback as possible, but you can consider different platforms, like TestFlight, Crashyltics Beta, HockeyApp with different analytic features. 
+
 ###Links
+
+* https://www.quora.com/What-are-some-strategies-for-beta-testing-an-app-that-will-be-paid-when-released
+* http://blog.instabug.com/2015/07/the-beginners-guide-for-beta-testing-your-app/
 
 ##12. Complete the Apps’ Store Listing
 
