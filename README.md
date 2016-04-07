@@ -96,7 +96,29 @@ Theis
 
 ##1. Understand the Publishing Process
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+When you publish an app, you mainly do two things
+
+You prepare the application for release
+        - Build a release version of your app, wich users can download and install.
+
+You release the application to users
+        - You publish, sell and destribute the release version
+
+Normaly you publish your app through Google Play, but you can publish it by sending it via email or directly to a phone. 
+(Big companies could have a monthly newsletter, where you can attach APK file)
+
+The publishing process
+
+
+Preparing the app for release
+Configure the app for release
+        - Remove log calls
+        - Remove Android:Debuggable attribute from manifest file
+        - Provide values for Android:VersionCode and Android:VersionName attributes,   also located in manifest file
+        - You might have to configure several other settings to meet Google Play requirements.
+
+Build and signing a release version of your app
+
 
 ###Links
 http://developer.android.com/tools/publishing/publishing_overview.html
@@ -105,12 +127,38 @@ http://developer.android.com/tools/publishing/preparing.html
 
 ##2. Understand Google Play Policies and Agreements
 
+Policies:
+* Sexually Explicit Content
+* Child Endangerment
+* (Realistic) Violence
+* Bullying and Harassment
+* Lack of safeguards for UGC
+* Hate Speech (Racism)
+* Sensitive Events
+* Gambling (Real Money)
+* Illegal Activities
+
+
+
+
 ###Links
+
+https://play.google.com/about/restricted-content.html#illegal-activities, https://play.google.com/intl/ALL_us/about/developer-distribution-agreement.html
 
 ##3. Test for Quality
 
+Every app that gets published to Google Play is expected to meet certain quality criteria. Failing to do so would mean that users could become unsatisfied with the product and decide not to use it. But while the quality test is advised, it’s not necessary in order to get your app published. It’s just a good idea for the developer to make sure the app meets all the criteria in order to keep the customer satisfied with the end product.
+
+For instance, some of the criteria to meet are things like “not repurposing common icons for some other task than the standard” and “to only ask for the minimum amount of permissions”. Things that seem obvious at first hand, but could be obscured during development.
+
+Setting up testing environments for your app is a good idea to ensure it works across al available devices on the market. You can’t test on every single device available, but a small select group of the most commonly used phones would be more than enough to make sure it works on the majority of the market. If it isn’t possible to acquire the hardware, emulators can serve as an acceptable substitute.
+
+StrictMode is a mode used for high performance testing, to see whether or not the app has detrimental effects on other apps if running in the background and so on. It is advised to test this at least a few times before publishing.
+
+
 ###Links
 
+http://developer.android.com/distribute/essentials/quality/core.html 
 
 ##4. Determine your App’s Content Rating
 
