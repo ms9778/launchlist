@@ -120,8 +120,8 @@ Build and signing a release version of your app
 
 
 ###Links
-*http://developer.android.com/tools/publishing/publishing_overview.html
-*http://developer.android.com/tools/publishing/preparing.html
+* http://developer.android.com/tools/publishing/publishing_overview.html
+* http://developer.android.com/tools/publishing/preparing.html
 
 
 ##2. Understand Google Play Policies and Agreements
@@ -142,8 +142,8 @@ Policies:
 
 ###Links
 
-*https://play.google.com/about/restricted-content.html#illegal-activities
-*https://play.google.com/intl/ALL_us/about/developer-distribution-agreement.html
+* https://play.google.com/about/restricted-content.html#illegal-activities
+* https://play.google.com/intl/ALL_us/about/developer-distribution-agreement.html
 
 ##3. Test for Quality
 
@@ -158,7 +158,7 @@ StrictMode is a mode used for high performance testing, to see whether or not th
 
 ###Links
 
-*http://developer.android.com/distribute/essentials/quality/core.html 
+* http://developer.android.com/distribute/essentials/quality/core.html 
 
 ##4. Determine your App’s Content Rating
 
@@ -176,7 +176,7 @@ You can assign (or change) the content rating for your apps in the Developer Con
 - It is important to answer correct and truthfully on the survey as a misleading describtion or rating can result in removal of your app.
 
 ###Links
-*https://play.google.com/apps/publish/signup/
+* https://play.google.com/apps/publish/signup/
 
 
 ##5. Confirm the App's Overall Size
@@ -189,7 +189,7 @@ Using APK Expansion files is a convenient, cost-effective method of distributing
 The expansion files are saved to the device's shared storage location (the SD card or USB-mountable partition; also known as the "external" storage) where your app can access them. On most devices, Google Play downloads the expansion file(s) at the same time it downloads the APK, so your application has everything it needs when the user opens it for the first time. In some cases, however, your application must download the files from Google Play when your application starts.
 
 ###Links
-*http://developer.android.com/google/play/expansion-files.html
+* http://developer.android.com/google/play/expansion-files.html
 
 ##6. Confirm the App's Platform and Screen Compatibility Ranges
 
@@ -198,8 +198,8 @@ However it is possible to change the default settings in the config.xml file loc
 
 
 ###Links
-*http://ionicframework.com/docs/guide/publishing.html
-*http://cordova.apache.org/docs/en/latest/config_ref/index.html
+* http://ionicframework.com/docs/guide/publishing.html
+* http://cordova.apache.org/docs/en/latest/config_ref/index.html
 
 ##7. Consider using In-app Billing or Android Pay
 Google Play In-app Billing lets you sell digital content in your applications, ranging from one-time purchases to subscriptions. This can help you to monetize the app over its installed lifetime.
@@ -339,20 +339,20 @@ Google Play displays your product information in a store listing page, here the 
 ##13. Use Google Play Badges and Links in your Promotional Campaigns
 Google Play badges give you an officially branded way of promoting your apps to Android users. Use the Google Play Badge generator to quickly create badges to link users to your products from web pages, ads, reviews, and more. You can also use special link formats to link directly to your store listing page, to a list of your products, or to search results. 
 ### Links
-*https://play.google.com/intl/en_us/badges/
+* https://play.google.com/intl/en_us/badges/
 
 
 ##14. Final Checks and Publishing
 When you think you’re ready to publish, sign in to the Developer Console and take a few moments for a few final checks. 
 Here is a few points to be on the lookout for when your publishing your first application!
 ### Links
-*http://developer.android.com/distribute/tools/launch-checklist.html#final-checks
+* http://developer.android.com/distribute/tools/launch-checklist.html#final-checks
 
 
 ##15. Support Users after Launch
 After you publish apps or app updates, it's crucial for you to support your customers. Prompt and courteous support can provide a better experience for users that results in better ratings and more positive reviews for your products. Users are likely to be more engaged with your app and recommend it if you’re responsive to their needs and feedback. This is especially true after publishing if you’re using a coordinated promotional campaign. 
 ### Links
-*http://developer.android.com/distribute/tools/launch-checklist.html#support-users
+* http://developer.android.com/distribute/tools/launch-checklist.html#support-users
 
 
 ###Paid or Free?
