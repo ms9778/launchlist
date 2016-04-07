@@ -138,7 +138,6 @@ The max size for an APK published on Google Play is 100 MB. If your app exceeds 
 You can use up to two (2) APK Expansion Files, each up to 2GB in size, for each APK.
 Using APK Expansion files is a convenient, cost-effective method of distributing large apps. However, the use of APK Expansion Files requires some changes in your app binary, so you will need to make those changes before creating your release-ready APK.
 
-Google Play hosts the expansion files for your application for free. 
 The expansion files are saved to the device's shared storage location (the SD card or USB-mountable partition; also known as the "external" storage) where your app can access them. On most devices, Google Play downloads the expansion file(s) at the same time it downloads the APK, so your application has everything it needs when the user opens it for the first time. In some cases, however, your application must download the files from Google Play when your application starts.
 
 ###Links
