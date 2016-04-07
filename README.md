@@ -169,8 +169,9 @@ http://developer.android.com/tools/publishing/preparing.html
 
 
 ##15. Support Users after Launch
-
-### http://developer.android.com/distribute/tools/launch-checklist.html#support-users
+After you publish apps or app updates, it's crucial for you to support your customers. Prompt and courteous support can provide a better experience for users that results in better ratings and more positive reviews for your products. Users are likely to be more engaged with your app and recommend it if you’re responsive to their needs and feedback. This is especially true after publishing if you’re using a coordinated promotional campaign. 
+### Links
+http://developer.android.com/distribute/tools/launch-checklist.html#support-users
 
 
 
