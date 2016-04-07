@@ -173,7 +173,14 @@ http://developer.android.com/tools/publishing/preparing.html
 ###Links
 
 
+Paid or Free?
+Free apps can be downloaded by any android user in google play, but paid apps can only be bought/downloaded by users in countries that support paid downloads. Paid apps are not supported in countries like china, cuba and iran. If your app is priced or you want to sell in-app products or subscriptions you’ll need a google payments merchant account. Google play uses payment methods like credit cards or direct carrier billing. If you release your app as free, you can't change it to priced. If you release a priced app, you can change it to free at anytime, but not back. Free apps can still sell in-app products and/or subscriptions.
 
+###Links
+In-app billing: http://developer.android.com/google/play/billing/index.html
+In-app products: http://developer.android.com/google/play/billing/billing_overview.html#products
+Subscriptions: http://developer.android.com/google/play/billing/billing_subscriptions.html
+Supported locations:  https://support.google.com/googleplay/android-developer/table/3539140?hl=en&rd=1
 
 
 
